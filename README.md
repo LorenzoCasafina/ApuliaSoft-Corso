@@ -1,2 +1,2 @@
 # ApuliaSoft-Corso
-esercitazioni corso di formazione ApuliaSoft in sviluppo web 
+esercitazioni in sviluppo web del corso di formazione di ApuliaSoft 
